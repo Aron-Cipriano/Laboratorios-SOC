@@ -22,7 +22,7 @@ Laboratorios-SOC/
 
 | # | Título | Tipo de Ataque | Data |
 |---|--------|---------------|------|
-| 01 | [Análise de Command Injection — DVWA](./letsdefend/analise-command-injection-dvwa.md) | Command Injection | Mar/2022 |
+| 01 | [Análise de Command Injection — DVWA](./letsdefend/analise-command-injection-dvwa.md) | Command Injection | Jun/2026 |
 
 ---
 
