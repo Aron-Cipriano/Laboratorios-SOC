@@ -15,9 +15,9 @@ Durante o monitoramento de um ambiente simulado no DVWA, o endereço IP `192.168
 
 ## 🗃️ Log Analisado
 
-```text
-
 <img width="1405" height="798" alt="image" src="https://github.com/user-attachments/assets/4f3bd885-03aa-47b9-b62b-d7ab6046622b" />
+
+```text
 
 192.168.31.174 - - [01/Mar/2022:11:42:16 -0800] "POST /dvwa/login.php HTTP/1.1" 302 -
 192.168.31.174 - - [01/Mar/2022:11:42:32 -0800] "GET /dvwa/get_user_info/?id=1 HTTP/1.1" 200 1050
